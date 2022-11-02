@@ -1,6 +1,6 @@
 # GuidingPainter
 
-Official implementation of “Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization” (WACV 2023)
+Official implementation of "Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization" (WACV 2023). [[arxiv]](https://arxiv.org/abs/2210.14270)
 
 ## Prerequisites
 * pytorch
