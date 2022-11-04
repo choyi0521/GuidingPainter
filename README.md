@@ -21,7 +21,7 @@ Official implementation of "Guiding Users to Where to Give Color Hints for Effic
 ## Training example
 ```
 python main.py \
---dataset yumi \
+--dataset {dataset name} \
 --processed_dir {processed dir} \
 --train_dir ../save/train \
 --test_dir ../save/test \
